@@ -7,3 +7,11 @@ Before we start, make sure your system meets the following requirements:
 - 4GB of RAM or more
 - 20GB of free disk space or more
 - Access to the internet
+
+## Installation
+To install Minikube, follow the steps below:
+
+1. Open the terminal and switch to root user by typing
+```bash
+sudo su -
+```
